@@ -12,10 +12,6 @@ I specialize in Full Stack Development, building both the front-end and back-end
   <img src="https://komarev.com/ghpvc/?username=znwafae&color=red" alt="Profile views" />
 </p>
 
-```c
-	struct Pair array[] = {
-			{"name", "test"},
-			{"age", "25"},
-			{"city", "Cairo"}
-    };
+```bash
+	"Name": "ouafae zouini",
 ```
