@@ -9,5 +9,5 @@ I specialize in Full Stack Development, building both the front-end and back-end
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=znwafae&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=znwafae&color=pink" alt="Profile views" />
 </p>
