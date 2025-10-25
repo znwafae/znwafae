@@ -21,5 +21,6 @@ I specialize in Full Stack Development, building both the front-end and back-end
 	"Contact": {
 		"LinkedIn": "https://www.linkedin.com/in/wafae-zouini-bb5a76239/",
 		"Email": "ouafae.zouini@gmail.com"
+	}
   }
 ```
