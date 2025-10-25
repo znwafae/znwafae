@@ -19,7 +19,7 @@ I specialize in Full Stack Development, building both the front-end and back-end
 	"Currently Working On"	: "42 CC projects - Web Server",
 	"Learning"				: "ReactJS, Python, TypeScript",
 	"Contact"				: {
-		"LinkedIn": "https://www.linkedin.com/in/wafae-zouini-bb5a76239/",
-		"Email": "ouafae.zouini@gmail.com"
+			"LinkedIn"		: "https://www.linkedin.com/in/wafae-zouini-bb5a76239/",
+			"Email"			: "ouafae.zouini@gmail.com"
 	}
 ```
