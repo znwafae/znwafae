@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+	**`Full Stack Developer`**
+</div>
 
-<!--
-**znwafae/znwafae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
+I specialize in Full Stack Development, building both the front-end and back-end of dynamic web applications. I enjoy tackling complex challenges and optimizing system performance while creating user-friendly interfaces and reliable back-end services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=znwafae&color=blue" alt="Profile views" />
+</p>
