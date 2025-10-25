@@ -1,6 +1,6 @@
-<p align="left">
-	**`Full Stack Developer`**
-</p>
+
+
+**`Full Stack Developer`**
 
 
 <br>
