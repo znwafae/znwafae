@@ -1,6 +1,6 @@
-<div align="center">
+<p align="left">
 	**`Full Stack Developer`**
-</div>
+</p>
 
 
 <br>
